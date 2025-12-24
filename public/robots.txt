@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://fantastic-burgers.zappy5.app/sitemap.xml
+Sitemap: https://fantastic-burgers-1.zappy5.app/sitemap.xml
