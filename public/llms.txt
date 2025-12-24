@@ -1,57 +1,47 @@
-# Fantastic Burgers — Generative Engine Optimization Map
-
-> A food and beverage business.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### Home
-https://fantastic-burgers-a5f758f2.zappy5.app
+https://fantastic-burgers.zappy5.app
 Experience the ultimate burger perfection at Fantastic Burgers. Handcrafted gourmet burgers with fresh, premium ingredients. Award-winning taste in every bite.
 
 ### Services
-https://fantastic-burgers-a5f758f2.zappy5.app/services
+https://fantastic-burgers.zappy5.app/services
 Explore our menu of handcrafted gourmet burgers made with premium grass-fed beef, fresh ingredients, and award-winning recipes. Sides, shakes, and more!
 
 ### About
-https://fantastic-burgers-a5f758f2.zappy5.app/about
+https://fantastic-burgers.zappy5.app/about
 Learn about Fantastic Burgers' journey from a dream to award-winning burger restaurant. Discover our commitment to quality, community, and crafting the perfect burger.
 
 ### Contact
-https://fantastic-burgers-a5f758f2.zappy5.app/contact
+https://fantastic-burgers.zappy5.app/contact
 Get in touch with Fantastic Burgers for orders, catering, or inquiries. Call, email, or visit us today. Pickup, delivery, and dine-in options available!
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://fantastic-burgers-a5f758f2.zappy5.app/privacy
+https://fantastic-burgers.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://fantastic-burgers-a5f758f2.zappy5.app/terms
+https://fantastic-burgers.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://fantastic-burgers-a5f758f2.zappy5.app/accessibility
+https://fantastic-burgers.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Fantastic Burgers
-Fantastic Burgers is a business in the food and beverage industry.
-
-## Target Audience
-- Burger Enthusiasts
-
-## Industry
-food and beverage
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://fantastic-burgers-a5f758f2.zappy5.app/sitemap.xml
-- **Robots.txt**: https://fantastic-burgers-a5f758f2.zappy5.app/robots.txt
+- **Sitemap**: https://fantastic-burgers.zappy5.app/sitemap.xml
+- **Robots.txt**: https://fantastic-burgers.zappy5.app/robots.txt
