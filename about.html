@@ -73,7 +73,7 @@
   // Configuration
   var config = {
     websiteId: 'a5f758f2-bebd-414a-9e0c-b773e6a857d4',
-    apiUrl: 'https://qaapi.zappy5.com/api/analytics/track',
+    apiUrl: 'http://localhost:5001/api/analytics/track',
     sessionDuration: 30 * 60 * 1000, // 30 minutes
     visitorDuration: 30 * 24 * 60 * 60 * 1000, // 30 days
     trackPageViews: true,
@@ -340,14 +340,14 @@
     
     <nav class="navbar"><button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
             <svg class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
-                <path d="M3 12h18M3 6h18M3 18h18" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
+                <path d="M3 12h18M3 6h18M3 18h18" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
             </svg>
             <svg class="close-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" style="display:none;">
-                <path d="M18 6L6 18M6 6l12 12" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
+                <path d="M18 6L6 18M6 6l12 12" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
             </svg>
         </button><button class="phone-header-btn" aria-label="Call">
             <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
-                <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path>
+                <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/>
             </svg>
         </button><div class="nav-container"><div class="nav-brand"><a href="/" class="logo-link" aria-label="Home"><img class="logo" src="/assets/business-logo.webp" alt="Fantastic Burgers"></a></div><ul class="nav-menu" id="navMenu">
             <li><a href="/services">Menu</a></li>
@@ -387,7 +387,7 @@
             <div class="values-grid">
                 <div class="value-card">
                     <div class="value-icon">
-                        <i class="fas fa-leaf"></i>
+                        <div class="zappy-inserted-element" style="margin: 20px 0; text-align: center; display: flex; justify-content: center;"><i id="element-saved-1766581819767-10b8zrcu67z" class="fas fa-leaf" style="color: #ffffff; font-size: 64px; line-height: 1;" data-element-type="icon" data-icon-type="fontawesome"></i></div>
                     </div>
                     <h3>Quality First</h3>
                     <p>We never compromise on ingredients. Every component of our burgers—from the beef to the buns to the toppings—is carefully selected for quality. Our beef is 100% grass-fed, hormone-free, and never frozen. Our produce comes from local farms we personally know and trust. Our buns are baked fresh every morning in small batches.</p>

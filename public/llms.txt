@@ -1,6 +1,4 @@
-# Fantastic Burgers — Generative Engine Optimization Map
-
-> A food and beverage business.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -40,15 +38,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About Fantastic Burgers
-Fantastic Burgers is a business in the food and beverage industry.
-
-## Target Audience
-- Burger Enthusiasts
-
-## Industry
-food and beverage
-
+## About Business
 ---
 
 # Additional Resources
