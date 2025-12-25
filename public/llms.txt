@@ -1,47 +1,57 @@
-# Business — Generative Engine Optimization Map
+# Fantastic Burgers — Generative Engine Optimization Map
+
+> A food and beverage business.
 
 ---
 
 ## Pages
 
 ### Home
-https://fantastic-burgers-1.zappy5.app
+https://zappy-site-a5f758f2-bebd-414a-9e0c.onrender.com
 Experience the ultimate burger perfection at Fantastic Burgers. Handcrafted gourmet burgers with fresh, premium ingredients. Award-winning taste in every bite.
 
 ### Services
-https://fantastic-burgers-1.zappy5.app/services
+https://zappy-site-a5f758f2-bebd-414a-9e0c.onrender.com/services
 Explore our menu of handcrafted gourmet burgers made with premium grass-fed beef, fresh ingredients, and award-winning recipes. Sides, shakes, and more!
 
 ### About
-https://fantastic-burgers-1.zappy5.app/about
+https://zappy-site-a5f758f2-bebd-414a-9e0c.onrender.com/about
 Learn about Fantastic Burgers' journey from a dream to award-winning burger restaurant. Discover our commitment to quality, community, and crafting the perfect burger.
 
 ### Contact
-https://fantastic-burgers-1.zappy5.app/contact
+https://zappy-site-a5f758f2-bebd-414a-9e0c.onrender.com/contact
 Get in touch with Fantastic Burgers for orders, catering, or inquiries. Call, email, or visit us today. Pickup, delivery, and dine-in options available!
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://fantastic-burgers-1.zappy5.app/privacy
+https://zappy-site-a5f758f2-bebd-414a-9e0c.onrender.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://fantastic-burgers-1.zappy5.app/terms
+https://zappy-site-a5f758f2-bebd-414a-9e0c.onrender.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://fantastic-burgers-1.zappy5.app/accessibility
+https://zappy-site-a5f758f2-bebd-414a-9e0c.onrender.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About Fantastic Burgers
+Fantastic Burgers is a business in the food and beverage industry.
+
+## Target Audience
+- Burger Enthusiasts
+
+## Industry
+food and beverage
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://fantastic-burgers-1.zappy5.app/sitemap.xml
-- **Robots.txt**: https://fantastic-burgers-1.zappy5.app/robots.txt
+- **Sitemap**: https://zappy-site-a5f758f2-bebd-414a-9e0c.onrender.com/sitemap.xml
+- **Robots.txt**: https://zappy-site-a5f758f2-bebd-414a-9e0c.onrender.com/robots.txt
