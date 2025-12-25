@@ -61,7 +61,7 @@
   opacity: 0.7;
 }</style>
     <!-- Cookie Consent -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/vanilla-cookieconsent@3/dist/cookieconsent.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/vanilla-cookieconsent@3/dist/cookieconsent.css">
     <script src="https://cdn.jsdelivr.net/npm/vanilla-cookieconsent@3/dist/cookieconsent.umd.js"></script>
     <!-- Mickidum Accessibility Toolbar -->
     <script src="https://cdn.jsdelivr.net/gh/mickidum/acc_toolbar/acctoolbar/acctoolbar.min.js"></script>
@@ -361,10 +361,18 @@
           </li>
         </div></div></nav>
 
-    <div class="hero-split-container">
+    <div class="hero-split-container" style="; position: relative; overflow: hidden;">
+<div class="hero-video-background">
+  <div class="hero-video-overlay"></div>
+  <video class="hero-video" autoplay="" muted="" loop="" playsinline="">
+    <source src="/assets/hero-video-1766651866289.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <img class="hero-video-fallback" src="http://localhost:5001/api/website/preview-fullscreen/a5f758f2-bebd-414a-9e0c-b773e6a857d4/assets/site-services-image-1.webp" alt="Hero background" loading="lazy">
+</div>
         <div class="hero-main">
             <div class="hero-image-wrapper">
-                <img data-placeholder="hero-burger" data-context="mouth-watering gourmet burger with melted cheese, fresh lettuce, tomatoes, and sesame bun, dramatic studio lighting, professional food photography" src="/assets/site-home-image-1.webp" alt="Fantastic gourmet burger" class="hero-burger-image">
+                <img data-placeholder="hero-burger" data-context="mouth-watering gourmet burger with melted cheese, fresh lettuce, tomatoes, and sesame bun, dramatic studio lighting, professional food photography" src="/assets/site-home-image-1.webp" alt="Fantastic gourmet burger" class="hero-burger-image hero-original-image-hidden" style="; display: none !important;">
             </div>
             <div class="hero-text-overlay">
                 <h1 class="hero-headline">MIND-BLOWING<br>BURGER<br>EXPERIENCE</h1>
@@ -406,22 +414,22 @@
                 <div class="burger-grid">
                     <div class="burger-card">
                         <div class="new-badge">New!</div>
-                        <img data-placeholder="classic-burger" data-context="classic cheeseburger on white background, clean product photography, top-down view" src="/assets/site-home-image-2.webp" alt="Classic Fantastic Burger">
+                        <img data-placeholder="classic-burger" data-context="classic cheeseburger on white background, clean product photography, top-down view" src="/assets/site-home-image-2.webp" alt="Classic Fantastic Burger" style="; display: none !important;" class="hero-original-image-hidden">
                         <h3>The Classic</h3>
                         <p class="price">$12.99</p>
                     </div>
                     <div class="burger-card">
-                        <img data-placeholder="bbq-burger" data-context="BBQ bacon burger on white background, clean product photography, top-down view" src="/assets/site-home-image-3.webp" alt="BBQ Bacon Burger">
+                        <img data-placeholder="bbq-burger" data-context="BBQ bacon burger on white background, clean product photography, top-down view" src="/assets/site-home-image-3.webp" alt="BBQ Bacon Burger" style="; display: none !important;" class="hero-original-image-hidden">
                         <h3>BBQ Bacon</h3>
                         <p class="price">$14.99</p>
                     </div>
                     <div class="burger-card">
-                        <img data-placeholder="spicy-burger" data-context="spicy jalapeño burger on white background, clean product photography, top-down view" src="/assets/site-home-image-4.webp" alt="Spicy Jalapeño Burger">
+                        <img data-placeholder="spicy-burger" data-context="spicy jalapeño burger on white background, clean product photography, top-down view" src="/assets/site-home-image-4.webp" alt="Spicy Jalapeño Burger" style="; display: none !important;" class="hero-original-image-hidden">
                         <h3>Spicy Jalapeño</h3>
                         <p class="price">$13.99</p>
                     </div>
                     <div class="burger-card">
-                        <img data-placeholder="mushroom-burger" data-context="mushroom swiss burger on white background, clean product photography, top-down view" src="/assets/site-home-image-5.webp" alt="Mushroom Swiss Burger">
+                        <img data-placeholder="mushroom-burger" data-context="mushroom swiss burger on white background, clean product photography, top-down view" src="/assets/site-home-image-5.webp" alt="Mushroom Swiss Burger" style="; display: none !important;" class="hero-original-image-hidden">
                         <h3>Mushroom Swiss</h3>
                         <p class="price">$13.99</p>
                     </div>
